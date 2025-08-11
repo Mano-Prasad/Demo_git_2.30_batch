@@ -28,7 +28,7 @@ public class Tutorial20_Taking_Screenshot
 	driver.close();	
 	}
 
-	@Test
+	@Test(priority=1)
 	public  void m1() throws IOException 
 	{
 			
